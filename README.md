@@ -1,2 +1,3 @@
 # Canadian-Computing-Contest
-My answer for CCC questions from DMOJ.
+My answers for the CCC questions from DMOJ.
+Junior Questions
